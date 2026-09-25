@@ -1,0 +1,5 @@
+texto = input("Digite sua palavra: \n")
+print(f"Texto digitado {texto}")
+print(f"Quantidade de caracteres : {len(texto)}")
+print(f"{texto[0]}")
+print(f"{texto[-1]}")
